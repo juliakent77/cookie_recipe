@@ -1,2 +1,3 @@
-# cookie_recipe
-This is a repo for cookies and junk
+Julia Kent
+
+Chocolate Chip Cookie
